@@ -30,3 +30,19 @@ Windows: [Google Drive](https://drive.google.com/file/d/1W0NbyQUUJXMYTptGr5ICIl1
 Linux: [Google Drive](https://drive.google.com/file/d/10VZRxQDYefgutqSG0ie-Ykkk5yZOnWCn/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/IXFuE3ENLUUc8Q)
 
 Mac: [Google Drive](https://drive.google.com/file/d/1LTef8u6bCc65hY8Z2sRGWQ2KcLYl6beS/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/glR6I_DFfFoeYA)
+
+
+## WheelWidget
+![screenshot](/images/WheelWidget/screenshot0.png) ![screenshot](/images/WheelWidget/screenshot1.png)
+
+### Widget
+Windows/Linux: [Google Drive](https://drive.google.com/file/d/1br5FsTJ9l5uT_0ZxOP_Lc9hV5TsJgUlO/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/7n3-7hi5RD5tnQ)
+
+### Wheel packs
+"ALL-IN-ONE" [Google Drive](https://drive.google.com/file/d/1uuF9YwlJ3SiA0iw5QtIlZuTC14HXTGIr/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/b-ixvNKo0Ezq1w)
+
+"Logitech": [Google Drive](https://drive.google.com/file/d/1q1j1eYEFxygv0CvG4RBm1Ygk0u90yla0/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/yd74C10Lc7r8vg)
+
+"Thrustmaster": [Google Drive](https://drive.google.com/file/d/1CHrJz464UywWIipsChG14lJA8kCuUSOz/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/IFm9pu7WHnPM5w)
+
+"Defender": [Google Drive](https://drive.google.com/file/d/129zq0ECQJQThI6nHjLdZxsnDwgriGwce/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/eicPY_t3T0mZGw)
