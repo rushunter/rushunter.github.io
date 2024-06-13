@@ -10,6 +10,7 @@ Windows: [Google Drive](https://drive.google.com/file/d/1f-pgcGE0WvGZYvPwKH2V-66
 ![screenshot](/images/molecular/Screenshot_6.png)
 
 Windows: [Google Drive](https://drive.google.com/file/d/1tBO09PoyjNeFJevk5vSkkpML8UUnZfEw/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/wVasa0CtOcVbjw)
+
 Linux: [Google Drive](https://drive.google.com/file/d/1rPNNaZIGl0LjxLFHjec5Skwg4cFVaIHx/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/8FemMHsKIQ3x1Q)
 
 
@@ -17,4 +18,5 @@ Linux: [Google Drive](https://drive.google.com/file/d/1rPNNaZIGl0LjxLFHjec5Skwg4
 ![screenshot](/images/adl/Screenshot_3.png)
 
 Windows: [Google Drive](https://drive.google.com/file/d/1p-nNSTZt8eEc47aPhUKdYr9FXJWbjwlA/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/Q3XjJgQq6KJ0zQ)
+
 Linux: [Google Drive](https://drive.google.com/file/d/1lK1kKDqDwr_t51CiqIlrXyoIlwG5iicr/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/7Mzmquf1qLix-g)
