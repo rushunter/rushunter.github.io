@@ -1,5 +1,11 @@
 # RUShunter Games
 
+## Endless Tic-Tac-Toe (alpha)
+Windows: [Google Drive](https://drive.google.com/file/d/1Dks-L6wDZZmUCOep6jgkYub2SPG6vqEl/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/RejNghB-zVeiUw)
+
+Linux: [Google Drive](https://drive.google.com/file/d/12QVmWqvHk8CU4khjeGbCD4-wWNexj1aw/view?usp=drive_link) / [Яндекс Диск](https://disk.yandex.ru/d/HgC4GzsERdMGdQ)
+
+
 ## Free Fall
 ![screenshot](/images/Free_Fall/Screenshot_2.png)
 
